@@ -20,12 +20,17 @@
 标题
 -
 
-## 超链接
+## 2.超链接
 \[连接](https://github.com/chaonet/Markdown/edit/master/README.md)
 
 [连接](https://github.com/chaonet/Markdown/edit/master/README.md)
 
-## 底纹
+## 3.底纹
 \`底纹`(键盘左上角的“~”)
 
 `底纹`
+
+## 4.特殊字符转义
+特殊字符前，加`\`
+
+## 5.
