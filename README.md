@@ -1,5 +1,5 @@
 # Markdown
-## 1.标题
+## 标题
 - 多个`#`，越多字号越小
 
 \# 标题
@@ -31,7 +31,7 @@
 标题
 -
 
-## 2.超链接
+## 超链接
 \[连接](https://github.com/chaonet/Markdown/edit/master/README.md)
 
 [连接](https://github.com/chaonet/Markdown/edit/master/README.md)
@@ -46,17 +46,17 @@
 [索引](#link)  
 
 
-## 3.底纹
+## 底纹
 \`底纹`(键盘左上角的“~”)
 
 `底纹`
 
-## 4.特殊字符转义
+## 特殊字符转义
 特殊字符前，加`\`
 
 破坏原有字符的组合结构就可以了
 
-## 5.引用、嵌套引用、段落引用
+## 引用、嵌套引用、段落引用
 \>引用1
 
 \>>引用2
@@ -66,7 +66,7 @@
 
 
 
-## 6.换行
+## 换行
 换(两个空格+回车)行
 
 换  
@@ -186,7 +186,7 @@ Text prior to footnote reference.[^2]
 [^2] Comment to include in footnote.
 
 ## 代码区块
-缩进 3 个 `
+最上和最下一行输入 3 个 `
 
 \`\`\`  
 代  
