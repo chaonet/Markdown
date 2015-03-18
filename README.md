@@ -202,4 +202,6 @@ Text prior to footnote reference.[^2]
 块
 ```
 
+[参考资料](http://help.gitbook.com/format/markdown.html)
+
 ### END
