@@ -202,6 +202,23 @@ Text prior to footnote reference.[^2]
 块
 ```
 
+### 语法高亮
+\```ruby
+
+require 'redcarpet'
+
+markdown = Redcarpet.new("Hello World!")
+
+puts markdown.to_html
+
+\```
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 [参考资料](http://help.gitbook.com/format/markdown.html)
 
 ### END
