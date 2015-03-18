@@ -219,6 +219,7 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-[参考资料](http://help.gitbook.com/format/markdown.html)
+[参考资料1](http://help.gitbook.com/format/markdown.html)
+[参考资料2](https://help.github.com/articles/github-flavored-markdown/)
 
 ### END
